@@ -5,18 +5,23 @@ GoNote is a simple utility for managing notes in your SimpleNote account. It all
 ### Installation
 #### OSX
 
-`brew tap exaroth/gonote && brew install gonote`
+``` bash
+brew tap exaroth/gonote && brew install gonote
+```
 
 #### Linux
 
-**AMD64**
+###### AMD64
 
-`wget -O gonote https://github.com/exaroth/gonote/releases/download/0.1.0/gonote.amd64 && chmod +x gonote_test && sudo mv gonote /usr/local/bin/`
+``` bash
+wget -O gonote https://github.com/exaroth/gonote/releases/download/0.1.0/gonote.amd64 && chmod +x gonote && sudo mv gonote /usr/local/bin/
+```
 
-**i386**
+###### i386
 
-
-`wget -O gonote https://github.com/exaroth/gonote/releases/download/0.1.0/gonote.i386 && chmod +x gonote_test && sudo mv gonote /usr/local/bin/`
+``` bash
+wget -O gonote https://github.com/exaroth/gonote/releases/download/0.1.0/gonote.i386 && chmod +x gonote && sudo mv gonote /usr/local/bin/
+```
 
 #### Ubuntu
 
