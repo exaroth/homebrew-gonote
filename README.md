@@ -23,8 +23,6 @@ wget -O gonote https://github.com/exaroth/gonote/releases/download/0.1.0/gonote.
 wget -O gonote https://github.com/exaroth/gonote/releases/download/0.1.0/gonote.i386 && chmod +x gonote && sudo mv gonote /usr/local/bin/
 ```
 
-#### Ubuntu
-
 ### Example Usage
 
 - **Creating notes**
