@@ -1,0 +1,2 @@
+- Add translations for Note keys so they're easier to copy
+- allow creating notes from clipboard (?)
